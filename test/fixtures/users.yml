@@ -1,0 +1,18 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+aru:
+  name: Arumoy Shome
+  email: aru@upto.com
+  archived: false
+
+ali:
+  name: Ali Vira
+  email: ali@upto.com
+
+babu:
+  name: Vishal Babu
+  email: babu@upto.com
+
+sex:
+  name: Garrett Hardy
+  email: sex@upto.com
