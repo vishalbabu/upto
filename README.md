@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/arumoy-shome/upto.svg?token=mVrYXzxk6oNU1JqXerVZ&branch=master)](https://travis-ci.com/arumoy-shome/upto)
+[![Build Status](https://travis-ci.com/arumoy-shome/upto.svg?token=mVrYXzxk6oNU1JqXerVZ&branch=master)](https://travis-ci.com/arumoy-sh//ome/upto)
 
 # Upto
 
@@ -8,7 +8,7 @@ This is the official Rails app for Upto, an FYDP initiative by
     * Allan Zhang
     * Garrett Hardy
     * Vishal Babu
-
+    
 ## Set up your machine
 1. To download ruby
     * download
