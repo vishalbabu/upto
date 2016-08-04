@@ -5,7 +5,7 @@
 This is the official Rails app for Upto, an FYDP initiative by
 
     * Ali Vira
-    * Arumoy Shome
+    * Allan Zhang
     * Garrett Hardy
     * Vishal Babu
 
@@ -43,7 +43,7 @@ This is the official Rails app for Upto, an FYDP initiative by
     * run `brew update` to get the latest (recommend doing this often)
     * run `brew install postgresql`
 4. To clone the repo
-    * run `git clone git@github.com:arumoy-shome/upto.git`
+    * run `git clone git@github.com:vishalbabu/upto.git`
     * if you are having problems with ssh check
       [this](https://help.github.com/articles/generating-an-ssh-key/) out
 5. To setup everything else
